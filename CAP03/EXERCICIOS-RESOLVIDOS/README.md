@@ -1,6 +1,6 @@
 # Desafios de Programação🚀
 
-Este repositório contém soluções dos <i><b>EXERCÍCIOS RESOLVIDOS</b></i> das páginas 36 a 50 do livro <i>Fundamentos da Programação de Computadores</i>, de Ana Fernanda Gomes Ascencio.
+Este repositório contém soluções dos <b>EXERCÍCIOS RESOLVIDOS</b> das páginas 36 a 50 do livro <i>Fundamentos da Programação de Computadores</i>, de Ana Fernanda Gomes Ascencio.
 
 ## Tabela de Conteúdos
 
